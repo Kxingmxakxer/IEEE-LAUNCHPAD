@@ -91,6 +91,4 @@ linkedin: www.linkedin.com/in/sidharth-sumitra-gireesh-2bb3132aa
 github:https://github.com/Kxingmxakxer
 
 
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
----
